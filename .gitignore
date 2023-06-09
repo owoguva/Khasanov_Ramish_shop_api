@@ -1,7 +1,7 @@
-.env
-venv
-db.sqlite3
-.idea
-static
-db.json
-shop_database
+/.env/
+/venv/
+/db.sqlite3/
+/.idea/
+/static/
+/db.json/
+/shop_database/
